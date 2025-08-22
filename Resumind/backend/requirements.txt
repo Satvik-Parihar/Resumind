@@ -1,0 +1,17 @@
+Django
+djangorestframework
+djangorestframework-simplejwt
+django-cors-headers
+PyMySQL
+pillow
+python-docx
+docx
+pdfplumber
+PyPDF2
+pandas
+numpy
+scikit-learn
+nltk
+spacy
+reportlab
+sentence-transformers
